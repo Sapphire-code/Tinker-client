@@ -6,7 +6,7 @@ Installation:
 1. Install Python from [Python.org](https://www.python.org/)
 2. Make a new folder in your documents, or anywhere for that matter.
 3. Clone the git repository in your folder: `git clone https://github.com/Sapphire-code/Tinker-client.git`
-4. Run the `setup.py` file, it is required to run this. As it installs all the dependencies.
+4. Run the `setup.py` file, it is required to run this as it installs all the dependencies.
 5. Have fun playing and tinkering!
 
 Screenshot of how the client looks:
