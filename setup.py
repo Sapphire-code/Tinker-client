@@ -1,3 +1,4 @@
+# COPYRIGHT SAPPHIREKR 2023
 # You can tinker with this file aswell, just make sure not to break everything.
 # You can use this file to distribute your modified client without the entire customization folder.
 import os
