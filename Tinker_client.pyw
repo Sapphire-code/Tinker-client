@@ -56,12 +56,13 @@ def TinkerClientFeatures(window):
     # Javascript code that will be executed.
     main_custom_js = """
     // You can mess with these aswell, just make sure to not mess something up.
-    // Setting the krunker logo
+    // Changing the krunker logo
     document.getElementById('mainLogo').src = 'https://i.imgur.com/4UsICVn.png';
     // removing the face near the logo
     document.getElementById('mainLogoFace').remove();
     // removing the season label
     document.getElementById('seasonLabel').remove();
+    // Removing the ads from the live now section within the in-game menu.
     document.getElementById('adCon').remove();
     """
     window.evaluate_js(main_custom_js)
