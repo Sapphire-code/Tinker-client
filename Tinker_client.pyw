@@ -1,4 +1,4 @@
-# COPYRIGHT SAPPHIREKR 2023
+# COPYRIGHT SAPPHIREKR 2024
 # This client was made for tinkerers who want to play around with some code.
 # Before beginning please run the setup.py file to install all required dependencies and requirments for the client.
 # Have fun tinkering! :)
